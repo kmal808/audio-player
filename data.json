@@ -1,0 +1,85 @@
+{
+  "songs": [
+    {
+      "bg": "#c9bea28f",
+      "artist": "KVRT_M4113Y",
+      "songName": "Someday",
+      "files": {
+        "song": "./assets/media/songs/1/someday-rev1.1.wav",
+        "cover": "./assets/media/songs/1/img.jpg"
+      }
+    },
+    {
+      "bg": "#0896eba1",
+      "artist": "KVRT_M4113Y",
+      "songName": "Fallen",
+      "files": {
+        "song": "./assets/media/songs/2/Fallen-rev1.1.mp3",
+        "cover": "./assets/media/songs/2/img.jpg"
+      }
+    },
+    {
+      "bg": "#ebbe03",
+      "artist": "KVRT_M4113Y",
+      "songName": "Rage Status",
+      "files": {
+        "song": "./assets/media/songs/3/rage_status.wav",
+        "cover": "./assets/media/songs/3/rage_status_cover.png"
+      }
+    },
+    {
+      "bg": "#ffc382",
+      "artist": "KVRT_M4113Y",
+      "songName": "Outta My Feels",
+      "files": {
+        "song": "./assets/media/songs/4/outta-my-feels.mp3",
+        "cover": "./assets/media/songs/4/img.jpg"
+      }
+    },
+    {
+      "bg": "#ffcbdc",
+      "artist": "KVRT_M4113Y",
+      "songName": "Sayonara",
+      "files": {
+        "song": "./assets/media/songs/5/sayonara-(mastered).wav",
+        "cover": "./assets/media/songs/5/Sayonara-alt.png.png"
+      }
+    },
+    {
+      "bg": "#44c16fb5",
+      "artist": "KVRT_M4113Y",
+      "songName": "Blood & Mud",
+      "files": {
+        "song": "./assets/media/songs/6/blood_and_mud.wav",
+        "cover": "./assets/media/songs/6/Blood&Mud.png"
+      }
+    },
+    {
+      "bg": "#ff4545",
+      "artist": "KVRT_M4113Y",
+      "songName": "Gunsmoke",
+      "files": {
+        "song": "./assets/media/songs/7/Gunsmoke-v1.3.wav",
+        "cover": "./assets/media/songs/7/Gunsmoke.png"
+      }
+    },
+    {
+      "bg": "#e5e7e9",
+      "artist": "KVRT_M4113Y",
+      "songName": "Iron Sharpens Iron",
+      "files": {
+        "song": "./assets/media/songs/8/iron-sharpens-iron.wav",
+        "cover": "./assets/media/songs/8/iron-sharpens-iron.jpg"
+      }
+    },
+    {
+      "bg": "#ffc382",
+      "artist": "KVRT_M4113Y",
+      "songName": "2032 Trap House",
+      "files": {
+        "song": "./assets/media/songs/9/2032-trap-house.wav",
+        "cover": "./assets/media/songs/9/2032-trap-house.jpg"
+      }
+    }
+  ]
+}
