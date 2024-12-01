@@ -6,7 +6,7 @@
       "songName": "Someday",
       "files": {
         "song": "./assets/media/songs/1/someday-rev1.1.wav",
-        "cover": "./assets/media/songs/1/img.jpg"
+        "cover": "./assets/media/songs/1/someday.png"
       }
     },
     {
@@ -15,7 +15,7 @@
       "songName": "Fallen",
       "files": {
         "song": "./assets/media/songs/2/Fallen-rev1.1.mp3",
-        "cover": "./assets/media/songs/2/img.jpg"
+        "cover": "./assets/media/songs/2/fallen.png"
       }
     },
     {
@@ -79,6 +79,15 @@
       "files": {
         "song": "./assets/media/songs/9/2032-trap-house.wav",
         "cover": "./assets/media/songs/9/2032-trap-house.jpg"
+      }
+    },
+    {
+      "bg": "#ffc382",
+      "artist": "KVRT_M4113Y",
+      "songName": "Been So Long",
+      "files": {
+        "song": "./assets/media/songs/10/been-so-long.wav",
+        "cover": "./assets/media/songs/10/been-so-long.jpg"
       }
     }
   ]
