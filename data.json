@@ -86,7 +86,7 @@
       "artist": "KVRT_M4113Y",
       "songName": "Been So Long",
       "files": {
-        "song": "./assets/media/songs/10/been-so-long.wav",
+        "song": "./assets/media/songs/10/been_so_long.wav",
         "cover": "./assets/media/songs/10/img.jpg"
       }
     }
